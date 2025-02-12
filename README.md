@@ -5,7 +5,7 @@
 - 💬 Ask me if you have any questions
 - 📫 How to reach me: contact@lauraturjman.fr
 
-## Welcome to my GitHub!
+** Welcome to my GitHub! **
 
 <!--
 **lturjman/lturjman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
