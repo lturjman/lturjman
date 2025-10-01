@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-- 🌱 I'am currently learning web development and in particular the Javascript language at La Capsule school.
+- 💻 I am looking for an opportunity as a junior web developer.
+- 🌱 Graduation - RNCP Title No. 6 - web and mobile development, including Javascript, React, React Native, Express, MongoDB, Mongoose, at La Capsule school.
 - 🔭 I was former communications manager and graphic designer.
 - 💬 Ask me if you have any questions
 - 📫 How to reach me: contact@lauraturjman.fr
